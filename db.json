@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "35fa",
+      "name": "s",
+      "ingredients": [
+        "s"
+      ],
+      "instructions": "s",
+      "category": "s",
+      "prepTime": "s",
+      "cookTime": "s",
+      "servings": "1",
+      "picture": "s"
+    }
+  ],
+  "users": [
+    {
+      "id": "f36e",
+      "email": "livhumukona9@gmail.com",
+      "password": "123456",
+      "name": "mukona"
+    }
+  ]
+}
